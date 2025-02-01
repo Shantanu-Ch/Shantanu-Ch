@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Shantanu Chhetri 👋</h1>
+<h1 align="center">Hello there! I'm Shantanu Chhetri👋</h1>
 <h3 align="center">Aspiring Data Analyst | Tech Enthusiast</h3>
 
 ## 🚀 About Me  
