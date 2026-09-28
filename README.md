@@ -2,8 +2,20 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" />
 </div>
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> I'm Shantanu Chhetri</h1>
-<h3 align="center">Full-Stack & Data Engineer | AI & Microservices Specialist</h3>
+<p align="center">
+  <a href="https://github.com/Shantanu-Ch">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=12f3dc&fontSize=54&height=90&width=954&text=Hey%20%F0%9F%91%8B%20I'm%20Shantanu%20Chhetri" alt="Hey I'm Shantanu Chhetri" />
+  </a>
+</p>
+
+<!-- ✅ Typing animated quote -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=745&height=44&lines=Architecting+Cloud-Native+Microservices;Analyzing+Data+to+Drive+Strategic+Insights;Building+AI-Driven+and+Event-Driven+Systems;Turning+Complex+Data+into+Actionable+Decisions" alt="Typing SVG" />
+</p>
+
+
+
+<h3 align="center">Full-Stack & Data Engineer | AI & Microservices</h3>
 
 <!-- ✅ Marquee for key roles -->
 <p align="center">
@@ -12,10 +24,7 @@
   </marquee>
 </p>
 
-<!-- ✅ Typing animated quote -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Architecting+cloud-native+microservices.;Analyzing+data+to+drive+strategic+insights.;Building+AI-driven+and+event-driven+systems.;Turning+complex+data+into+actionable+decisions." alt="Typing SVG" />
-</p>
+---
 
 <!-- ✅ Background Banner -->
 <p align="center">
@@ -27,19 +36,20 @@
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Shantanu-Ch&icon=0&color=0" alt="" /></a>
 </p>
 
-
-## 🧑‍💻 About Me
-I'm **Shantanu Chhetri**, a **Full-Stack & Data Engineer** currently pursuing my **Master of Computer Applications (MCA)** at **Lovely Professional University** (graduated BCA with an aggregate **CGPA of 9.38**). 
-
-- 🔭 Currently focused on **Full-Stack Web Apps, Data Engineering, and Event-Driven Microservices**.
-- 🛠️ Hands-on experience with **Java, C++, Python, Node.js, Express, React, Next.js, and Kafka**.
-- 📊 Proficient in data processing, big data handling (**25M+ rows**), machine learning, and BI dashboards.
-- 📫 Reach out to me at: **shantanuchhetri7@gmail.com**
-
+### 🚀 About Me
 ---
+I'm Shantanu Chhetri, a Full-Stack &amp; Data Engineer currently pursuing my Master of Computer Applications (MCA) at Lovely Professional University (graduated BCA with an aggregate CGPA of 9.38).
 
-## 🚀 Tech Stack
+🔭 &nbsp;I'm currently working on **Building Konnect, a cloud-native microservices chat app with real-time PyTorch/Kafka NLP moderation.**  
+🌱 &nbsp;I'm currently learning **Advanced LLM agentic workflows, LangChain, vector search, and cloud orchestration with Docker and GCP.**  
+👯 &nbsp;I'm looking to collaborate on **Open-source full-stack web applications, real-time microservices, and data engineering projects.**  
+🤔 &nbsp;I'm looking for help with **Optimizing low-latency deep learning model inference in distributed streaming architectures.**  
+💬 &nbsp;Ask me about **React, Node.js, Python, SQL, Power BI, machine learning pipelines, and microservices design.**  
+😄 &nbsp;Pronouns: **He / Him**  
+⚡ &nbsp;Fun fact: **I trained an NLP model that knows the difference between toxic language and saying "this exam is killing me"!**
 
+### 🛠️ Tech Stack
+---
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -76,8 +86,15 @@ I'm **Shantanu Chhetri**, a **Full-Stack & Data Engineer** currently pursuing my
 ![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink&logoColor=white)
 
 
-## 🛠 Featured Projects
+### 🔗 Connect With Me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/shantanu-chhetri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shantanuchhetri7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+### 🛠 Featured Projects
+---
 ### 🔹 [Konnect: Microservices Chat & NLP Moderation](https://github.com/Shantanu-Ch)
 > **Stack:** Node.js, Express, Python, Next.js 15, Kafka, Redis, MongoDB, PyTorch, Docker, Traefik
 - **Architecture:** Cloud-native 6-service microservices platform routed via Traefik v3.0, featuring JWT/OAuth 2.0, RBAC, and real-time Socket.IO communication.
@@ -90,8 +107,8 @@ I'm **Shantanu Chhetri**, a **Full-Stack & Data Engineer** currently pursuing my
 - **Reliability:** Built-in error-handling logic (try-catch) to manage non-200 HTTP statuses, network timeouts, and graceful UI fallbacks.
 
 
-## 📚 Currently Learning & Exploring
-
+### 📚 Currently Learning & Exploring
+---
 ```yaml
 currently_focused_on:
   - LLM Agentic Workflows & LangChain
@@ -100,34 +117,25 @@ currently_focused_on:
   - Distributed Systems Optimization
 ```
 
+### 📊 GitHub Stats
 ---
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shantanu-Ch&theme=dark" height="170"/>
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Shantanu-Ch&show_icons=true&theme=tokyonight&title_color=12f3dc&icon_color=12f3dc&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Shantanu-Ch&layout=compact&theme=tokyonight&title_color=12f3dc&icon_color=12f3dc&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
+### 📈 Contribution Graph
 ---
-
-## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/shantanu-chhetri/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Shantanu-Ch" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:shantanuchhetri7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Shantanu-Ch&bg_color=00000000&color=12f3dc&line=12f3dc&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
+### 💭 Dev Quote
 ---
-
-<samp>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
   <p align="center">
     ════ ⋆★⋆ ════<br>
     "Code cleanly, analyze deeply, and build systems that scale." 👨‍💻
   </p>
-</samp>
