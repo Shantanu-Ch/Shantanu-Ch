@@ -15,17 +15,9 @@
 
 
 
-<h3 align="center">Full-Stack & Data Engineer | AI & Microservices</h3>
-
-<!-- ✅ Marquee for key roles -->
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="8">
-    🚀 Full-Stack Developer | 📊 Data Engineer | 🧠 Microservices & AI Explorer | 🎓 MCA Student @ LPU
-  </marquee>
-</p>
+<h3 align="center">Full-Stack Developer | Data Engineer | AI & Microservices | MCA Student @ LPU</h3>
 
 ---
-
 <!-- ✅ Background Banner -->
 <p align="center">
  <img src="tpot.jpg" alt="GitHub Banner" width="100%" />
