@@ -8,7 +8,7 @@
 <!-- ✅ Marquee for key roles -->
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="8">
-    🚀 Full-Stack Developer | 📊 Data Engineer | 🧠 Microservices & AI Explorer | 🎓 MCA Student @ LPU | 📜 Published Researcher
+    🚀 Full-Stack Developer | 📊 Data Engineer | 🧠 Microservices & AI Explorer | 🎓 MCA Student @ LPU
   </marquee>
 </p>
 
@@ -17,21 +17,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Architecting+cloud-native+microservices.;Analyzing+data+to+drive+strategic+insights.;Building+AI-driven+and+event-driven+systems.;Turning+complex+data+into+actionable+decisions." alt="Typing SVG" />
 </p>
 
-<!-- ✅ Visitor Count -->
+<!-- ✅ Background Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shantanu-Ch&label=Profile+Visitors&color=0e75b6&style=flat" alt="Profile Visitors" />
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Shantanu-Ch&icon=0&color=0" alt="Visit Count" /></a>
+ <img src="" alt="GitHub Banner" width="100%" />
 </p>
 
----
 
 ## 🧑‍💻 About Me
 I'm **Shantanu Chhetri**, a **Full-Stack & Data Engineer** currently pursuing my **Master of Computer Applications (MCA)** at **Lovely Professional University** (graduated BCA with an aggregate **CGPA of 9.38**). 
 
 - 🔭 Currently focused on **Full-Stack Web Apps, Data Engineering, and Event-Driven Microservices**.
-- 🛠️ Hands-on experience with **C++, Python, Node.js, Express, Java, React, Next.js, and Kafka**.
+- 🛠️ Hands-on experience with **Java, C++, Python, Node.js, Express, React, Next.js, and Kafka**.
 - 📊 Proficient in data processing, big data handling (**25M+ rows**), machine learning, and BI dashboards.
-- 📜 Published researcher in **distributed real-time systems and NLP**.
 - 📫 Reach out to me at: **shantanuchhetri7@gmail.com**
 
 ---
@@ -73,21 +70,6 @@ I'm **Shantanu Chhetri**, a **Full-Stack & Data Engineer** currently pursuing my
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink&logoColor=white)
 
----
-
-## 💼 Work Experience
-
-### 🔹 **Data Analytics Intern** | *CodTech IT Solutions Pvt. Ltd.* `(Jun 2025 – Aug 2025)`
-- **Big Data Processing:** Scaled out-of-core computations on **25M+ rows** (Instacart dataset) with **Dask**, overcoming hardware RAM constraints.
-- **Power BI Dashboard:** Created an interactive Blinkit sales dashboard using star-schema modeling, Power Query, and custom DAX measures (YTD, dynamic KPIs).
-- **Machine Learning & NLP:** Modeled real estate drivers in R using multiple linear regression and engineered an NLP sentiment classification pipeline with NLTK and Scikit-learn.
-
-### 🔹 **Data Science Intern** | *Prodigy Infotech* `(Jan 2025 – Feb 2025)`
-- **Predictive Modeling:** Built and evaluated Decision Trees, Naive Bayes, and Logistic Regression models on real-world datasets (Titanic, Bank Marketing).
-- **Text & Sentiment Analysis:** Deployed Python sentiment classification workflows using NLTK to extract topic clusters and emotional valence metrics.
-- **Recognition:** Awarded an official **Letter of Recommendation (LOR)** for outstanding data modeling and analytical problem-solving.
-
----
 
 ## 🛠 Featured Projects
 
@@ -102,24 +84,6 @@ I'm **Shantanu Chhetri**, a **Full-Stack & Data Engineer** currently pursuing my
 - **Features:** Responsive SPA serving real-time meteorological data for 200,000+ cities with debounced search queries and sub-second render performance.
 - **Reliability:** Built-in error-handling logic (try-catch) to manage non-200 HTTP statuses, network timeouts, and graceful UI fallbacks.
 
----
-
-## 🏆 Key Achievements & Research
-- 📜 **Published Research Paper:** Capstone Project Publication in *IJSREM* focusing on distributed real-time systems and NLP.
-- ⭐ **Academic Distinction:** Aggregate **CGPA of 9.38** in BCA at Lovely Professional University.
-- ✉️ **Letter of Recommendation:** Awarded by *Prodigy Infotech* for exceptional data analysis and statistical modeling skills.
-- 🏆 **30 Days of Coding Contest:** 3-Star Rating on *HackerRank*.
-
----
-
-## 📜 Certifications
-- 📄 **TCS iON Career Edge:** Generative AI Essentials (*TCS iON*)
-- 📄 **Databases for Developers Foundations:** Oracle Certified (*Oracle*)
-- 📄 **MongoDB Overview:** Core Concepts and Architecture (*MongoDB*)
-- 📄 **Data Analysis with Python:** (*Coursera*)
-- 📄 **Responsive Web Design:** (*freeCodeCamp*)
-
----
 
 ## 📚 Currently Learning & Exploring
 
@@ -133,14 +97,9 @@ currently_focused_on:
 
 ---
 
-## 📈 GitHub Stats & Trophies
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shantanu-Ch&theme=darkhub&margin-w=10&row=1" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu-Ch&layout=compact&theme=dark" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shantanu-Ch&show_icons=true&theme=dark" height="170" />
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shantanu-Ch&theme=dark" height="170"/>
 </p>
 
@@ -153,9 +112,6 @@ currently_focused_on:
   </a>
   <a href="https://github.com/Shantanu-Ch" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:shantanuchhetri7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
