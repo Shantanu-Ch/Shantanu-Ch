@@ -22,6 +22,11 @@
  <img src="tpot.jpg" alt="GitHub Banner" width="100%" />
 </p>
 
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=Shantanu-Ch&label=Profile+Visitors&color=0e75b6&style=flat" alt="Profile Visitors" />
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Shantanu-Ch&icon=0&color=0" alt="" /></a>
+</p>
+
 
 ## 🧑‍💻 About Me
 I'm **Shantanu Chhetri**, a **Full-Stack & Data Engineer** currently pursuing my **Master of Computer Applications (MCA)** at **Lovely Professional University** (graduated BCA with an aggregate **CGPA of 9.38**). 
