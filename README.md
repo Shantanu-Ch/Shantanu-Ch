@@ -19,7 +19,7 @@
 
 <!-- ✅ Background Banner -->
 <p align="center">
- <img src="" alt="GitHub Banner" width="100%" />
+ <img src="tpot.jpg" alt="GitHub Banner" width="100%" />
 </p>
 
 
